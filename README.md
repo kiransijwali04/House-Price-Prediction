@@ -27,7 +27,7 @@ Clone the repository:
 bash
 Copy
 Edit
-git clone https://github.com/yourusername/house-price-prediction.git  
+git clone https://github.com/kiransijwali04/House-Price-Prediction 
 Install required dependencies:
 bash
 Copy
